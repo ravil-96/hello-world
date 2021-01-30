@@ -1,2 +1,3 @@
 # hello-world
 Starting out with GitHub
+Hello World! I am Ravil and I am excited about starting out in code. This is a journey worth taking, I believe, and, most importantly, promises to be a deeply fulfilling one. As a creative person (I am a dancer in my blood) and quite a tech savvy guy (engineering degree after all) software represents for me a perfect medium to combine both of my brains and realise some of the visions floating around in my head while I am writing this blog entry. Capturing them in images is one thing, bringing them to life, on the other hand, requires some serious tech skills that I am aspired to acquire. So here I am with my "Hello World!" message. I am ready to plunge into uncertainty of positive changes. Let's make a leap of faith!  
